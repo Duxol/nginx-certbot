@@ -4,6 +4,7 @@
 ###########################
 
 HE STORES FILES IN /data. REMEMBER ABOUT THAT IN THE nginx.conf
+
 -- DUXOL
 
 ###########################
