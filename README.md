@@ -2,8 +2,10 @@
 
 # MY NOTE
 ###########################
+
 HE STORES FILES IN /data. REMEMBER ABOUT THAT IN THE nginx.conf
-- DUXOL
+-- DUXOL
+
 ###########################
 
 > This repository is accompanied by a [step-by-step guide on how to
